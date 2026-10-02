@@ -225,4 +225,4 @@ This repository serves as the official landing page for EaseSoft Barcode. The so
 **Get the most recent version of EaseSoft Barcode today!**
 
 ---
-**Last updated:** 2026-10-01 21:37:02 UTC
+**Last updated:** 2026-10-02 01:21:27 UTC
